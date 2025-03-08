@@ -21,7 +21,7 @@ export const Cart = () => {
 
   return (
     <div className="container">
-      <h3>Add and remove cart item</h3>
+      <h3>Add and remove cart</h3>
       <div className="input-container">
         <input
           type="text"
