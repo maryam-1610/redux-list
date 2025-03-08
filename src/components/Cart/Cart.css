@@ -1,0 +1,15 @@
+.container {
+  padding: 10px;
+}
+.input-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.list-item-container {
+    list-style: none;
+    text-align: center;
+}
+
+
